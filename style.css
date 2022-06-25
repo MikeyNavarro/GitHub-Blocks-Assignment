@@ -1,0 +1,51 @@
+img {
+  height: 200px;
+}
+
+.firstrow {
+  background-color: #76ba99;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.secondrow {
+  background-color: #ced89e;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.spiderman {
+  background-color: lightblue;
+}
+
+.clone {
+  background-color: #470d21;
+}
+
+.thirdrow {
+  background-color: #4cacbc;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+body {
+  background-color: bisque;
+  padding: 15px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  color: #464855;
+  font-size: 40px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+}
